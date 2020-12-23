@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_functionckenbau_function" v="construction de ponts"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_productLine" v="construction de ponts"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_FactoryName" v="construction de ponts"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Description" v="construction de ponts"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input1" v="gravier"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input2" v="sable"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input3" v="eau"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input4" v="ciment"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input5" v="acier"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Output1" v="pont"/>
+
+
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_FactoryName" v="Achat de matières premières"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_Description" v="Les matières premières peuvent être achetées ici"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_Input1" v="Déposer de l'argent"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_productLine1" v="acheter de la levure chimique"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_productLine2" v="Acheter de la levure"/>
+    </elements>
+</l10n>

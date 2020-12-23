@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+
+    <elements>
+
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_function" v="Huehnerstall zur Produktion von Eiern und Hühnchen"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn" v="Eier"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn1" v="Huhn"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_FactoryName" v="Huehnerstall"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Description" v="Huehnerstall zur Produktion von Eiern und Hühnchen"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input1" v="Huhn"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input2" v="Getreide"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input3" v="Leerpalette"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input4" v="Kartonpalette"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input5" v="Stroh"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input6" v="Wasser"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output1" v="Eier"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output2" v="Huhn"/>
+
+
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_function" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_FactoryName" v="Rinderzucht"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Description" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input1" v="Rinder"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input2" v="Gras"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input3" v="Silage"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input4" v="Kraftfutter"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder" v="Rinderzucht"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder1" v="Silage füttern"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder2" v="Mischfutter füttern"/>
+
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_function" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern mit Ausgabe von Milch"/>
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_FactoryName" v="Rinderzucht mit Milch"/>
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_Description" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !!  Rinderstall zum züchten von Rindern mit Ausgabe von Milch"/>
+
+    </elements>
+</l10n>

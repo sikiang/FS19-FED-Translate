@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_functionckenbau_function" v="Bruckenbau"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_productLine" v="Bruckenbau"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_FactoryName" v="Bruckenbau"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Description" v="Bruckenbau"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input1" v="Kies"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input2" v="Sand"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input3" v="Wasser"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input4" v="Zement"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input5" v="Stahl"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Output1" v="Bruecke"/>
+
+
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_FactoryName" v="Einkauf Rohstoffe"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_Description" v="Hier können Rohstoffe eingekauft werden"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_Input1" v="Geld einzahlen"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_productLine1" v="Backpulver kaufen"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Einkauf_productLine2" v="Hefe kaufen"/>
+
+
+    </elements>
+</l10n>

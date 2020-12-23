@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <!-- store items -->
+        <text name="shopItem_nfBaumschule" text="Baumschule" />
+        <text name="shopItem_nfBaustelle" text="Baustelle" />
+        <text name="shopItem_nfFerienhaus" text="Ferienhaus" />
+        <text name="shopItem_nfFerienhaus2" text="Ferienhaus 2" />
+        <text name="shopItem_nfFerienhaus3" text="Ferienhaus 3" />
+        <text name="shopItem_nfGreenhouse" text="Gewächshäuser" />
+        <text name="shopItem_nfHoftanke" text="Hoftankstelle" />
+        <text name="shopItem_nfLiquidSilo" text="Hoftanks" />
+        <text name="shopItem_nfLiquidSiloExtension" text="Tankerweiterung" />
+        <text name="shopItem_nfPVAnlage" text="PV-Anlage" />
+        <text name="shopItem_nfPVHalle" text="PV-Halle" />
+        <text name="shopItem_nfPVHalleBig" text="Große PV-Halle" />
+        <text name="shopItem_nfSilo" text="Hofsilo Multifruit" />
+        <text name="shopItem_nfSiloXL" text="Hofsilo XL Multifruit" />
+        <text name="shopItem_nfSiloExtensionMultifruit" text="Siloerweiterung Multifruit" />
+        <text name="shopItem_nfSiloExtensionMultifruitSmall" text="Kleine Siloerweiterung Multifruit" />
+        <text name="shopItem_nfWholesale" text="Großhandel" />
+        <text name="shopItem_nfWindkraftwerk" text="Windkraftwerk" />
+        <text name="shopItem_nfWindkraftwerkMini" text="Kleines Windkraftwerk" />
+        <text name="shopItem_nfWindpark" text="Windpark" />
+        <text name="shopItem_nfWoodSellPoint" text="Holz-Direktverkauf" />
+        <text name="shopItem_nfmcd" text="MC Donalds" />
+
+        <!-- functions -->
+        <text name="function_hourlyIncome" text="Generiert ein stündliches Einkommen." />
+        <text name="function_nfBaumschule" text="Baumschule." />
+        <text name="function_nfBaustelle" text="Baustelle zum Verkauf von Kies, Sand und Erde." />
+        <text name="function_nfFerienhaus" text="Vermietbares Ferienhaus." />
+        <text name="function_nfGreenhouse" text="Gewächshäuser mit Verkauf von Mist, Gülle, Gärresten, Kompost und Erde." />
+        <text name="function_nfHoftanke" text="Hoftankstelle, die mit 20.000 Litern Diesel befüllt werden kann." />
+        <text name="function_nfLiquidSilo" text="In Tanks werden Flüssigkeiten gelagert." />
+        <text name="function_nfLiquidSiloExtension" text="Erweitert die Lagerkapazität deiner Tanks. Muss in der Nähe der bestehenden Hoftanks gebaut werden." />
+        <text name="function_nfWholesale" text="Großhandel zum Verkauf diverser Produkte und stündliches Einkommen." />
+        <text name="function_nfWoodSellPoint" text="Holzverkauf direkt vor Ort! Achtung: Nur einen platzieren!" />
+        <text name="function_nfmcd" text="MC Donalds zum Verkauf diverser Produkte und stündliches Einkommen." />
+
+        <!-- hotspots -->
+        <text name="hotspot_nfHoftanke" text="Hoftankstelle" />
+        <text name="hotspot_nfLiquidSilo" text="Hoftanks" />
+        <text name="hotspot_nfWoodSellPoint" text="Holz-Direktverkauf" />
+    </texts>
+</l10n>

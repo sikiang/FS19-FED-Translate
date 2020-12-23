@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <!-- store items -->
+        <text name="shopItem_nfBaumschule" text="Tree Nursery" />
+        <text name="shopItem_nfBaustelle" text="Construction Site" />
+        <text name="shopItem_nfFerienhaus" text="Vacation Home" />
+        <text name="shopItem_nfFerienhaus2" text="Vacation Home 2" />
+        <text name="shopItem_nfFerienhaus3" text="Vacation Home 3" />
+        <text name="shopItem_nfGreenhouse" text="Greenhouses" />
+        <text name="shopItem_nfHoftanke" text="Farm Gas Station" />
+        <text name="shopItem_nfLiquidSilo" text="Farm Liquid Tanks" />
+        <text name="shopItem_nfLiquidSiloExtension" text="Liquid Tanks Extension" />
+        <text name="shopItem_nfPVAnlage" text="PV System" />
+        <text name="shopItem_nfPVHalle" text="PV Shed" />
+        <text name="shopItem_nfPVHalleBig" text="Big PV Shed" />
+        <text name="shopItem_nfSilo" text="Farm Silo Multifruit" />
+        <text name="shopItem_nfSiloXL" text="Farm Silo XL Multifruit" />
+        <text name="shopItem_nfSiloExtensionMultifruit" text="Silo Extension Multifruit" />
+        <text name="shopItem_nfSiloExtensionMultifruitSmall" text="Small Silo Extension Multifruit" />
+        <text name="shopItem_nfWholesale" text="Wholesale" />
+        <text name="shopItem_nfWindkraftwerk" text="Windmill" />
+        <text name="shopItem_nfWindkraftwerkMini" text="Small Windmill" />
+        <text name="shopItem_nfWindpark" text="Wind Park" />
+        <text name="shopItem_nfWoodSellPoint" text="Timber Direct Sale" />
+	<text name="shopItem_nfmcd" text="MC Donalds" />
+
+        <!-- functions -->
+        <text name="function_hourlyIncome" text="Generates an hourly income." />
+        <text name="function_nfBaumschule" text="Tree nursery." />
+        <text name="function_nfBaustelle" text="Construction site for selling gravel, sand and soil." />
+        <text name="function_nfFerienhaus" text="Lettable vacation home." />
+        <text name="function_nfGreenhouse" text="Greenhouses with selling station for manure, slurry, digestate, compost and soil." />
+        <text name="function_nfHoftanke" text="Farm gas station, which can be filled with 20,000 litres of diesel." />
+        <text name="function_nfLiquidSilo" text="Liquid tanks are used to store liquids." />
+        <text name="function_nfLiquidSiloExtension" text="Increases the storage capacity of your tanks. Must be placed near your farm liquid tanks." />
+        <text name="function_nfWholesale" text="Wholesale for selling various products." />
+        <text name="function_nfWoodSellPoint" text="Sell timber on the spot! Attention: Only ever place one!" />
+	<text name="function_nfmcd" text="MC Donalds zum Verkauf diverser Produkte und stündliches Einkommen." />
+
+        <!-- hotspots -->
+        <text name="hotspot_nfHoftanke" text="Farm Gas Station" />
+        <text name="hotspot_nfLiquidSilo" text="Farm Liquid Tanks" />
+        <text name="hotspot_nfWoodSellPoint" text="Timber Direct Sale" />
+    </texts>
+</l10n>
