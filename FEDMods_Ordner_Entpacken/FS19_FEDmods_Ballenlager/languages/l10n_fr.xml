@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+    <e k="FEDmods_Ballenlager_rund_stroh_function" v="roundbale straw"/>
+    <e k="FEDmods_Ballenlager_rund_stroh" v="roundbale straw"/>
+    <e k="FEDmods_Ballenlager_rund_stroh_FactoryName" v="roundbale straw"/>
+    <e k="FEDmods_Ballenlager_rund_stroh_Input1" v="roundbale straw"/>
+	
+    <e k="FEDmods_Ballenlager_rund_silage_function" v="roundbale Silage"/>
+    <e k="FEDmods_Ballenlager_rund_silage" v="roundbale Silage"/>
+    <e k="FEDmods_Ballenlager_rund_silage_FactoryName" v="Silagebale"/>
+    <e k="FEDmods_Ballenlager_rund_silage_Input1" v="Silagebale"/>
+    
+    <e k="FEDmods_Ballenlager_rund_heu_function" v="roundbale hay"/>
+    <e k="FEDmods_Ballenlager_rund_heu" v="roundbale hay"/>
+    <e k="FEDmods_Ballenlager_rund_heu_FactoryName" v="haybale"/>
+    <e k="FEDmods_Ballenlager_rund_heu_Input1" v="haybale"/>
+
+    <e k="FEDmods_Ballenlager_rund_gras_function" v="roundbale Gras"/>
+    <e k="FEDmods_Ballenlager_rund_gras" v="roundbale Gras"/>
+    <e k="FEDmods_Ballenlager_rund_gras_FactoryName" v="Grasbale"/>
+    <e k="FEDmods_Ballenlager_rund_gras_Input1" v="Grasbale"/>
+
+   <e k="FEDmods_Ballenlager_Werkstoffe_function" v="Paletten Lagerhalle Werkstoffe"/>
+    <e k="FEDmods_Ballenlager_Werkstoffe" v="Lagerhalle Werkstoffe"/>
+    <e k="FEDmods_Ballenlager_Werkstoffe_FactoryName" v="Lagerhalle Werkstoffe"/>
+    <e k="FEDmods_Ballenlager_Werkstoffe_Input1" v="Leerpaletten"/>
+ <e k="FEDmods_Ballenlager_Werkstoffe_Input2" v="Bretter"/>
+ <e k="FEDmods_Ballenlager_Werkstoffe_Input3" v="OSB Platten"/>
+ <e k="FEDmods_Ballenlager_Werkstoffe_Input4" v="Spanplatte"/>
+ <e k="FEDmods_Ballenlager_Werkstoffe_Input5" v="Pellets"/>
+ <e k="FEDmods_Ballenlager_Werkstoffe_Input6" v="Holzstamm"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input7" v="Karton"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input8" v="Papier"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input9" v="Zement"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input10" v="Steine rot"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input11" v="Steine grau"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input12" v="Leder"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input13" v="Nebenprodukt"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input14" v="Klopapier"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input15" v="Strohpellets"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input16" v="Heupellets"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input17" v="Wool"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input18" v="Holzfass"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input19" v="Bienenstock"/>
+
+<e k="FEDmods_Ballenlager_Werkstoffe_Input20" v="Stoff"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input21" v="Strickwolle"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input22" v="Schuhe"/>
+<e k="FEDmods_Ballenlager_Werkstoffe_Input23" v="Klamotten"/>
+
+<e k="FEDmods_Ballenlager_Kuehlhaus_function" v="Paletten Lagerhalle Kühlhaus"/>
+    <e k="FEDmods_Ballenlager_Kuehlhaus" v="Lagerhalle Kühlhaus"/>
+    <e k="FEDmods_Ballenlager_Kuehlhaus_FactoryName" v="Lagerhalle Kühlhaus"/>
+    <e k="FEDmods_Ballenlager_Kuehlhaus_Input1" v="Rindfleisch"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input2" v="Schweinefleisch"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input3" v="Lammfleisch"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input4" v="Hühnchenfleisch"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input5" v="Wurstwaren"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input6" v="Scholle"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input7" v="Heringe"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input8" v="Krabben"/>
+ <e k="FEDmods_Ballenlager_Kuehlhaus_Input9" v="Hummer"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input10" v="Butter"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input11" v="Vollmilch"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input12" v="Joghurt"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input13" v="Sahne"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input14" v="Quark"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input15" v="Käse"/>
+<e k="FEDmods_Ballenlager_Kuehlhaus_Input16" v="Frischkäse"/>
+
+ <e k="FEDmods_Ballenlager_ObstGem_function" v="Paletten Lagerhalle Obst und Gemüse"/>
+<e k="FEDmods_Ballenlager_ObstGem" v="Lagerhalle Obst und Gemüse"/>
+<e k="FEDmods_Ballenlager_ObstGem_FactoryName" v="Lagerhalle Obst und Gemüse"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input1" v="Apfel"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input2" v="Birne"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input3" v="Kirsche"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input4" v="Pflaume"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input5" v="Tomate"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input6" v="Salat"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input7" v="Blumenkohl"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input8" v="Rotkohl"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input9" v="Kartoffelsack"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input10" v="Karottensack"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input11" v="Zwiebelsack"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input12" v="Gemüsemais"/>
+ <e k="FEDmods_Ballenlager_ObstGem_Input13" v="Kuerbis"/>
+<e k="FEDmods_Ballenlager_ObstGem_Input14" v="Erdbeeren"/>
+<e k="FEDmods_Ballenlager_ObstGem_Input15" v="Pilze"/>
+
+<e k="FEDmods_Ballenlager_Lebensmittel_function" v="Paletten Lagerhalle Lebensmittel"/>
+<e k="FEDmods_Ballenlager_Lebensmittel" v="Lagerhalle Lebensmittel"/>
+<e k="FEDmods_Ballenlager_Lebensmittel_FactoryName" v="Lagerhalle Lebensmittel"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input1" v="Zucker"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input2" v="Mehl"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input3" v="Malz"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input4" v="Eier"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input5" v="Brot"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input6" v="Brötchen"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input7" v="Backwaren"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input8" v="Kuchen"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input9" v="Hefe"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input10" v="Backpulver"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input11" v="Nudeln"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input12" v="Spaghetti"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input13" v="Tortelloni"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input14" v="Gemüsesuppe"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input15" v="Tomatensuppe"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input16" v="Hühnersuppe"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input17" v="Popcorn"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input18" v="Haferflocken"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input19" v="Hirsebrei"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input20" v="Sojaschnetzel"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input21" v="Honey"/>
+<e k="FEDmods_Ballenlager_Lebensmittel_Input22" v="Ketchup"/>
+ <e k="FEDmods_Ballenlager_Lebensmittel_Input23" v="Mayo"/>
+
+
+<e k="FEDmods_Ballenlager_Fluessigkeiten_function" v="Paletten Lagerhalle Fluessigkeiten"/>
+<e k="FEDmods_Ballenlager_Fluessigkeiten" v="Lagerhalle Fluessigkeiten"/>
+<e k="FEDmods_Ballenlager_Fluessigkeiten_FactoryName" v="Lagerhalle Fluessigkeiten"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input1" v="Bierkiste"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input2" v="Bierfass"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input3" v="Rapsöl"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input4" v="Sojabohnenöl"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input5" v="Sonnenblumenöl"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input6" v="Apfelsaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input7" v="Birnensaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input8" v="Kirschsaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input9" v="Pflaumensaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input10" v="Tomatensaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input11" v="Karottensaft"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input12" v="Hafermilch"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input13" v="Sojamilch"/>
+<e k="FEDmods_Ballenlager_Fluessigkeiten_Input14" v="Obstler"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input15" v="Korn"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input16" v="Wodka"/>
+ <e k="FEDmods_Ballenlager_Fluessigkeiten_Input17" v="Whiskey"/>
+
+
+<e k="FEDmods_Ballenlager_ZentrallagerBauplan_function" v="Zentrallager Bauplan für 5 Zentrallager Hallen, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743 "/>
+<e k="FEDmods_Ballenlager_ZentrallagerBauplan" v="Zentrallager Bauplan"/>
+<e k="FEDmods_Ballenlager_ZentrallagerBauplan_FactoryName" v="Zentrallager"/>
+
+  <e k="FEDmods_Ballenlager_ZentralWerkstoffe_function" v="Paletten Zentrallager Werkstoffe für Zentrallager Bauplan, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743"/>
+    <e k="FEDmods_Ballenlager_ZentralWerkstoffe" v="Zentrallager Werkstoffe"/>
+    <e k="FEDmods_Ballenlager_ZentralWerkstoffe_FactoryName" v="Zentrallager Werkstoffe"/>
+
+ <e k="FEDmods_Ballenlager_ZentralLebensmittel_function" v="Paletten Zentrallager Lebensmittel für Zentrallager Bauplan, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743"/>
+    <e k="FEDmods_Ballenlager_ZentralLebensmittel" v="Zentrallager Lebensmittel"/>
+    <e k="FEDmods_Ballenlager_ZentralLebensmittel_FactoryName" v="Zentrallager Lebensmittel"/>
+
+<e k="FEDmods_Ballenlager_ZentralKuehlhaus_function" v="Paletten Zentrallager Kuehlhaus für Zentrallager Bauplan, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743"/>
+    <e k="FEDmods_Ballenlager_ZentralKuehlhaus" v="Zentrallager Kuehlhaus"/>
+    <e k="FEDmods_Ballenlager_ZentralKuehlhaus_FactoryName" v="Zentrallager Kuehlhaus"/>
+
+<e k="FEDmods_Ballenlager_ZentralObstGem_function" v="Paletten Zentrallager Obst und Gemüse für Zentrallager Bauplan, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743"/>
+    <e k="FEDmods_Ballenlager_ZentralObstGem" v="Zentrallager Obst und Gemüse"/>
+    <e k="FEDmods_Ballenlager_ZentralObstGem_FactoryName" v="Zentrallager Obst und Gemüse"/>
+
+<e k="FEDmods_Ballenlager_ZentralFluessigkeiten_function" v="Paletten Zentrallager Fluessigkeiten für Zentrallager Bauplan, Hilfe / Aufbauanleitung siehe mein Youtube Kanal FedAction LS19 Folge 743"/>
+    <e k="FEDmods_Ballenlager_ZentralFluessigkeiten" v="Zentrallager Fluessigkeiten"/>
+    <e k="FEDmods_Ballenlager_ZentralFluessigkeiten_FactoryName" v="Zentrallager Fluessigkeiten"/>
+
+ 
+
+  <e k="FEDmods_Ballenlager_Holzstamm_function" v="Holzlager"/>
+    <e k="FEDmods_Ballenlager_Holzstamm" v="Holzlager"/>
+    <e k="FEDmods_Ballenlager_Holzstamm_FactoryName" v="Holzlager"/>
+    <e k="FEDmods_Ballenlager_Holzstamm_Input1" v="Holz"/> 
+
+
+    </elements>
+</l10n>

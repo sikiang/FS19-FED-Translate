@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <texts>
+        <!-- store items -->
+        <text name="shopItem_nfBaumschule" text="Pépinière" />
+        <text name="shopItem_nfBaustelle" text="Site de Construction" />
+        <text name="shopItem_nfFerienhaus" text="Maison de vacances" />
+        <text name="shopItem_nfFerienhaus2" text="Maison de vacances 2" />
+        <text name="shopItem_nfFerienhaus3" text="Maison de vacances 3" />
+        <text name="shopItem_nfGreenhouse" text="Serres" />
+        <text name="shopItem_nfHoftanke" text="Station d'essence agricole" />
+        <text name="shopItem_nfLiquidSilo" text="Réservoirs de liquide de ferme" />
+        <text name="shopItem_nfLiquidSiloExtension" text="Extension de réservoirs de liquide" />
+        <text name="shopItem_nfPVAnlage" text="Système photovoltaïque" />
+        <text name="shopItem_nfPVHalle" text="Remise photovoltaïque" />
+        <text name="shopItem_nfPVHalleBig" text="Grand hangar photovoltaïque" />
+        <text name="shopItem_nfSilo" text="Silo Multifruit agricole" />
+        <text name="shopItem_nfSiloXL" text="Silo Multifruit XL agricole" />
+        <text name="shopItem_nfSiloExtensionMultifruit" text="Extension de silo Multifruit" />
+        <text name="shopItem_nfSiloExtensionMultifruitSmall" text="Petite extension de silo Multifruit" />
+        <text name="shopItem_nfWholesale" text="Vente en gros" />
+        <text name="shopItem_nfWindkraftwerk" text="Éolienne" />
+        <text name="shopItem_nfWindkraftwerkMini" text="Petite éolienne" />
+        <text name="shopItem_nfWindpark" text="Parc éolien" />
+        <text name="shopItem_nfWoodSellPoint" text="Vente directe de bois" />
+        <text name="shopItem_nfmcd" text="MC Donalds" />
+
+        <!-- functions -->
+        <text name="function_hourlyIncome" text="Génère un revenu horaire." />
+        <text name="function_nfBaumschule" text="Pépinière." />
+        <text name="function_nfBaustelle" text="Site de construction pour la vente de gravier, de sable et de terre." />
+        <text name="function_nfFerienhaus" text="Maison de vacances à louer." />
+        <text name="function_nfGreenhouse" text="Serres avec station de vente pour le fumier, lisier, digestat, compost et terre." />
+        <text name="function_nfHoftanke" text="Station-service agricole, qui peut être remplie avec 20000 litres de diesel." />
+        <text name="function_nfLiquidSilo" text="Les réservoirs de liquide sont utilisés pour stocker des liquides." />
+        <text name="function_nfLiquidSiloExtension" text="Augmente la capacité de stockage de vos réservoirs. Doit être placé près des réservoirs de liquide de votre ferme." />
+        <text name="function_nfWholesale" text="Commerce de gros pour la vente de divers produits." />
+        <text name="function_nfWoodSellPoint" text="Vendez du bois sur place! Attention: placez-en un seul!" />
+        <text name="function_nfmcd" text="MC Donalds pour la vente de divers produits et générer un revenu horaire." />
+
+        <!-- hotspots -->
+        <text name="hotspot_nfHoftanke" text="Station-service agricole" />
+        <text name="hotspot_nfLiquidSilo" text="Réservoirs de liquides agricoles" />
+        <text name="hotspot_nfWoodSellPoint" text="Vente directe de bois" />
+    </texts>
+</l10n>
