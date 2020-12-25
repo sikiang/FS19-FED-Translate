@@ -3,36 +3,35 @@
 
     <elements>
 
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_function" v="chicken coop"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn" v="eggs"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn1" v="chicken"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_FactoryName" v="chicken coop"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Description" v="chicken coop"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input1" v="chicken"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input2" v="wheat"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input3" v="emptypallat"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input4" v="Carton"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input5" v="straw"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input6" v="water"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output1" v="eggs"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output2" v="chicken"/>
-
- <e k="FEDmods_Tiere_FEDmods_Rinderstall_function" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_FactoryName" v="Rinderzucht"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Description" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input1" v="Rinder"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input2" v="Gras"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input3" v="Silage"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input4" v="Kraftfutter"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder" v="Rinderzucht"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder1" v="Silage füttern"/>
-  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder2" v="Mischfutter füttern"/>
-
- <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_function" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !! Rinderstall zum züchten von Rindern mit Ausgabe von Milch"/>
- <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_FactoryName" v="Rinderzucht mit Milch"/>
- <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_Description" v="Der Stall ist nur für Singel Spiel und lokal gehosteter Multiplay geeignet, auf Servern macht der GC Animal Trigger Lua Fehler !!  Rinderstall zum züchten von Rindern mit Ausgabe von Milch"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_function" v="Poulailler pour la production d'œufs et de poulets"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn" v="Oeufs"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn1" v="Poulet"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_FactoryName" v="Poulailler"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Description" v="Poulailler pour la production d'œufs et de poulets"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input1" v="Poulet"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input2" v="Grain"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input3" v="Palette vide"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input4" v="Palette de carton"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input5" v="Paille"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input6" v="Eau"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output1" v="Oeufs"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Output2" v="Poulet"/>
 
 
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_function" v="Étable pour l'élevage de bovins. L'étable ne convient qu'aux parties solo et aux parties multijoueurs hébergés localement, sur les serveurs, cela génère l'erreur GC Animal Trigger Lua !"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_FactoryName" v="Élevage de bovins"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Description" v="Étable pour l'élevage de bovins. L'étable ne convient qu'aux parties solo et aux parties multijoueurs hébergés localement, sur les serveurs, cela génère l'erreur GC Animal Trigger Lua !"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input1" v="Bovins"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input2" v="Herbe"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input3" v="Ensilage"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_Input4" v="Ration Total Mélangé"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder" v="Elevage bovin"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder1" v="Aliments ensilés"/>
+  <e k="FEDmods_Tiere_FEDmods_Rinderstall_productLine_Rinder2" v="Aliments RTM pour animaux"/>
+
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_function" v="Étable pour l'élevage de bovins avec livraison de lait. L'étable ne convient qu'aux parties solo et aux parties multijoueurs hébergés localement, sur les serveurs, cela génère l'erreur GC Animal Trigger Lua !"/>
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_FactoryName" v="L'élevage de bovins avec livraison de lait"/>
+ <e k="FEDmods_Tiere_FEDmods_Rinderstall_Milch_Description" v="Étable pour l'élevage de bovins avec livraison de lait. L'étable ne convient qu'aux parties solo et aux parties multijoueurs hébergés localement, sur les serveurs, cela génère l'erreur GC Animal Trigger Lua !"/>
 
     </elements>
 </l10n>

@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <éléments>
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_function" v = "Production d'engrais avec 50% de lisier ou digestat et 50% de fumier ou de compost." />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_productLine_fertilizer" v = "Production d'engrais" />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_FactoryName" v = "Production d'engrais" />
+<e k = "FEDmods_Produktionen_FEDmods_Duenger_FactoryName2" v = "Engrais" />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_Description" v = "roduction d'engrais avec 50% de lisier ou digestat et 50% de fumier ou de compost." />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_Input1" v = "Lisier / digestat" />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_Input2" v = "Fumier / Compost" />
+    <e k = "FEDmods_Produktionen_FEDmods_Duenger_Output1" v = "Engrais" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Diesel_function" v = "Le diesel et le compost sont fabriqués à partir de colza ou de tournesol." />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_productLine_diesel" v = "Production de diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_FactoryName" v = "Production de diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_FactoryName2" v = "Diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_Description" v = "Le diesel et le compost sont fabriqués à partir de colza ou de tournesol." />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_Input1" v = "Colza / tournesol" />
+    <e k = "FEDmods_Produktionen_FEDmods_Diesel_Output1" v = "Diesel" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_function" v = "Ici, la bière peut être brassée à partir d'orge ou de blé, you houblon, you paint, de l'eau et des palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_FactoryName" v = "Brasserie" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_FactoryName2" v = "Brasserie" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_FactoryDescription" v = "La bière peut être fabriquée dans la brasserie." />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_productLine_Bierkasten" v = "Caisse de bière" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_productLine_Bierfass" v = "Fût de bière" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input1" v = "Blé" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input2" v = "Orge" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input3" v = "Houblon" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input4" v = "Malt" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input5" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Input6" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Output1" v = "Caisse de bière" />
+<e k = "FEDmods_Produktionen_FEDmods_Brauerei_Output2" v = "Fût de bière" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Fermenter_function" v = "L'ensilage est produit dans le fermenteur." />
+    <e k = "FEDmods_Produktionen_FEDmods_Fermenter_productLine_silage" v = "Fermenteur" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fermenter_FactoryName" v = "Fermenteur" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fermenter_Description" v = "L'ensilage est produit dans le fermenteur." />
+    <e k = "FEDmods_Produktionen_FEDmods_Fermenter_Input1" v = "Paille haché / herbe" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fermenter_Output1" v = "Ensilage" />
+
+
+<e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_function" v = "Production d'engrais liquide par 75% d'eau et 25% d'engrais." />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_productLine_liquidfertilizer" v = "Production d'engrais liquide" />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_FactoryName" v = "Production d'engrais liquide" />
+<e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_FactoryName2" v = "Engrais liquide" />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_Description" v = "Production d'engrais liquide par 75% d'eau et 25% d'engrais." />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_Input1" v = "Eau" />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_Input2" v = "Engrais" />
+    <e k = "FEDmods_Produktionen_FEDmods_FluessigDuenger_Output1" v = "Engrais liquide" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_function" v = "Le compost est produit à partir de diverses matières premières en même temps que le diesel." />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_FactoryName" v = "Composteur" />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_FactoryDescription" v = "Le compost peut être produit dans cette usine." />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_productLine_compost" v = "Production de compost" />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_Input1" v = "Biologique" />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_Input2" v = "Diesel" />
+<e k = "FEDmods_Produktionen_FEDmods_Komposter_Output1" v = "Compost" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Malz_function" v = "Le malt et l'alimentation porcine sont produits à partir de blé ou d'orge avec de l'eau et des palettes vides." />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_FactoryName" v = "Usine à malt" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_FactoryName2" v = "Malt" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_FactoryDescription" v = "Cette usine peut produire du malt." />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_productLine_Malz" v = "Production de malt" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_Input1" v = "Blé / Orge" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_Input3" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_Output1" v = "Malt" />
+<e k = "FEDmods_Produktionen_FEDmods_Malz_Output2" v = "Alimentation porcine" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_function" v = "La farine est produite à partir de céréales telles que le blé, l'orge, l'épeautre, le seigle et les céréales mélangées." />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_FactoryName" v = "Usine de farine" />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_FactoryName2" v = "Farine" />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_FactoryDescription" v = "La farine peut être produite dans cette usine." />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_productLine_mehl" v = "Production de farine" />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_Input1" v = "Céréales" />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_Input2" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Mehlfabrik_Output1" v = "Farine" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Mischfutter_function" v = "Les aliments mélangés sont faits de foin, de paille et d'ensilage." />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_productLine_forage" v = "Production d'aliments mixtes" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_productLine_stroh" v = "Externaliser la paille" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_productLine_heu" v = "Externaliser le foin" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_productLine_silage" v = "Outsource silage" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_FactoryName" v = "Production d'aliments mixtes" />
+<e k = "FEDmods_Produktionen_FEDmods_Mischfutter_FactoryName2" v = "Mischfutter" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_Description" v = "Les aliments mélangés sont faits de foin, de paille et d'ensilage." />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_Input1" v = "Foin" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_Input2" v = "Paille" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_Input3" v = "Ensilage" />
+    <e k = "FEDmods_Produktionen_FEDmods_Mischfutter_Output1" v = "Mischfutter" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Pellets_function" v = "Les granulés de bois sont fabriqués à partir de copeaux de bois, les granulés de paille sont fabriqués à partir de paille et les granulés de foin sont fabriqués à partir de foin." />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_productLine_pellets" v = "Granulés de bois" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_productLine_pellets1" v = "Paillettes de paille" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_productLine_pellets2" v = "Heupellets" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_FactoryName" v = "Pelletfabrik" />
+     <e k = "FEDmods_Produktionen_FEDmods_Pellets_FactoryName2" v = "Granulés" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_FactoryDescription" v = "Les copeaux de bois deviennent des granulés de bois, la paille devient des granulés de paille et le foin devient des granulés de foin." />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_Input1" v = "Copeaux de bois" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_Input2" v = "Paille" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pellets_Input3" v = "Foin" />
+<e k = "FEDmods_Produktionen_FEDmods_Pellets_Input4" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Pellets_Output1" v = "Granulés" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_function" v = "La betterave sucrière se transforme en pulpe de betterave. Le BGA peut être rempli de pulpe de betterave." />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_productLine_beetPulp" v = "Rübenschnitzel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_FactoryName" v = "Rübenschnitzel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_Description" v = "La betterave sucrière se transforme en pulpe de betterave. Le BGA peut être rempli de pulpe de betterave." />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_Input1" v = "Betterave à sucre" />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_Input2" v = "Diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Ruebenschnitzel_Output1" v = "Rübenschnitzel" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_function" v = "Les palettes vides, les palettes en carton, les panneaux OSB, les palettes à copeaux et les copeaux de bois sont fabriqués à partir de bois. La table et l'usine de palettes peuvent être placées sur le site" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saegewerk_productLine_leerpallet" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_TitleProductline1" v = "Ligne de palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_TitleProductline2" v = "Line Bretterpaletten" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_TitleProductline3" v = "Line palettes de carton gris" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_productLine_bretterpallet" v = "Bretterpaletten" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_productLine_spanplatte" v = "Panneau d'aggloméré" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_productLine_osbplatte" v = "Panneau OSB" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_productLine_hackschnitzel" v = "Copeaux de bois" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saegewerk_FactoryName" v = "Sägewerk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saegewerk_FactoryDescription" v = "Les palettes vides, les palettes en carton, les panneaux OSB, les palettes à copeaux et les copeaux de bois sont fabriqués à partir de bois. La table et l'usine de palettes peuvent être placées sur le site" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Input1" v = "Palette en bois ou en rondins" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Output1" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Output2" v = "Bretterpaletten" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Output3" v = "Copeaux de bois" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Output4" v = "Panneau d'aggloméré" />
+<e k = "FEDmods_Produktionen_FEDmods_Saegewerk_Output5" v = "Panneau OSB" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_function" v = "Les copeaux de bois, l'eau et les palettes vides sont utilisés pour produire du papier, du papier toilette et des palettes en carton. Les opérations par équipes peuvent augmenter la production avec des caisses ou des dépôts" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_FactoryName" v = "Zellstofffabrik" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_FactoryName2" v = "Zellstoff" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_FactoryDescription" v = "Le papier, le papier hygiénique et le carton peuvent être produits dans cette usine." />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_productLine_Papier" v = "Fabrication du papier" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_productLine_Karton" v = "Production de carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_productLine_Klopapier" v = "Production de papier toilette" />
+
+<e k = "FEDmods_Produktionen_FEDmods_productLine_Schicht" v = "Activate shift operation" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Input1" v = "Copeaux de bois" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Input3" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Input4" v = "Money" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Output1" v = "Paper pallet" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Output2" v = "Palette en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Zellstoff_Output3" v = "Papier toilette" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_function" v = "Extension de pieu de terre pour gravière." />
+    <e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_productLine_earth" v = "Erdhaufen" />
+    <e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_FactoryName" v = "Erdhaufen" />
+    <e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_Description" v = "Extension Erdhaufen pour gravière." />
+    <e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_Input1" v = "Diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Erdhaufen_Output1" v = "Earth" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_function" v = "Nous produisons du foin à partir d'herbe avec du diesel." />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_productLine_hay" v = "Heutrocknung" />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_FactoryName" v = "Heutrocknung" />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_Description" v = "Nous produisons du foin à partir d'herbe avec du diesel." />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_Input1" v = "Gras" />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_Input2" v = "Diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Heutrocknung_Output1" v = "Foin" />
+
+
+<e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_function" v = "La chaux est produite à l'aide d'eau et de diesel." />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_productLine_lime" v = "Kalkwerk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_FactoryName" v = "Kalkwerk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_Description" v = "La chaux est produite à l'aide d'eau et de diesel." />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_Input1" v = "Eau" />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_Input2" v = "Diesel" />
+    <e k = "FEDmods_Produktionen_FEDmods_Kalkwerk_Output1" v = "Kalk" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_function" v = "Le diesel est utilisé pour produire du gravier et du sable." />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_FactoryName" v = "Kiesgrube" />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_FactoryDescription" v = "Le diesel est utilisé pour fabriquer du gravier et du sable." />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_productLine_kiesgrube" v = "Kiesgrube" />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_Input1" v = "Diesel" />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_Output1" v = "Kies" />
+<e k = "FEDmods_Produktionen_FEDmods_Kiesgrube_Output2" v = "Sand" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_function" v = "L'eau et le compost sont produits à partir de lisier ou de digestat." />
+    <e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_productLine_klaerwerk" v = "Klärwerk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_FactoryName" v = "Klärwerk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_Description" v = "L'eau et le compost sont produits à partir de lisier ou de digestat." />
+    <e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_Input1" v = "Fumier liquide / digestat" />
+    <e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_Output1" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Klaerwerk_Output2" v = "Kompost" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_function" v = "Les pesticides et le compost sont produits à partir d'eau, de tabac et de chaux." />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_productLine_herbicide" v = "Produits phytosanitaires" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_FactoryName" v = "Produits phytosanitaires" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_FactoryName2" v = "Pflanzenschutz" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Description" v = "Les pesticides et le compost sont produits à partir d'eau, de tabac et de chaux." />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Input1" v = "Eau" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Input2" v = "Tabac" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Input3" v = "Kalk" />
+    <e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Output1" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflanzenschutz_Output2" v = "Produits phytosanitaires" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Saatgut_function" v = "Production de semences utilisant 75% de céréales et 25% d'engrais." />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_productline_seeds" v = "Production de semences" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_FactoryName" v = "Saatgutproduktion" />
+<e k = "FEDmods_Produktionen_FEDmods_Saatgut_FactoryName2" v = "Saatgut" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_Description" v = "Production de semences utilisant 75% de céréales et 25% d'engrais." />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_Input1" v = "Grain" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_Input2" v = "Fertilizer" />
+    <e k = "FEDmods_Produktionen_FEDmods_Saatgut_Output1" v = "Saatgut" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_function" v = "Remplissez les fruits de la terre, le maïs, les céréales et les protéines et cela devient de la nourriture pour porcs." />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_FactoryName" v = "Schweinfutter" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_FactoryDescription" v = "Des aliments pour porcs peuvent être produits dans cette usine." />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_productLine_pigfood" v = "Pig feed" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_Input1" v = "Fruits de la terre" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_Input2" v = "Maïs-grain" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_Input3" v = "Grain" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_Input4" v = "Proteins" />
+<e k = "FEDmods_Produktionen_FEDmods_Schweinefutter_Output1" v = "Schweinfutter" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Zement_function" v = "Le ciment et les pierres sont fabriqués à partir de gravier, de sable, d'eau, de palettes vides et de palettes en papier." />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_FactoryName" v = "Zementwerk" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_FactoryName2" v = "Cement" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_FactoryDescription" v = "Le ciment et les pierres sont fabriqués à partir de gravier, de sable, d'eau, de palettes vides et de palettes en papier." />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_productLine_Zement" v = "Production de ciment" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_productLine_Stein_grau" v = "Production de pierres grises" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_productLine_Stein_rot" v = "Production de pierre rouge" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Input1" v = "Kies" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Input2" v = "Sand" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Input3" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Input4" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Input5" v = "Paper" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Output1" v = "Cement" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Output2" v = "Gray stones" />
+<e k = "FEDmods_Produktionen_FEDmods_Zement_Output3" v = "Pierres rouges" />
+
+
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_function" v = "Les pommes sont fabriquées à partir d'eau, de compost, de palettes vides et de carton. La production peut être augmentée avec des abeilles, des engrais et des produits phytosanitaires" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_FactoryName" v = "Plantation de pommes" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_FactoryName2" v = "Apple" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_FactoryDescription" v = "Les pommes peuvent être produites dans cette plantation." />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_productLine_apfel" v = "Plantation de pommes" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_productLine_apfel1" v = "+ engrais" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_productLine_apfel2" v = "+ Plant Protection" />
+<e k = "FEDmods_Produktionen_FEDmods_productLine_Obst_Bienen" v = "+ abeilles" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input1" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input3" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input4" v = "Palette en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input5" v = "Fertilizer" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Input6" v = "Plant protection" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Output1" v = "Apple" />
+<e k = "FEDmods_Produktionen_FEDmods_Apfel_Output2" v = "Honey" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Birne_function" v = "Les poires sont fabriquées à partir d'eau, de compost, de palettes vides et de carton. Avec les engrais et les pesticides, la production peut être augmentée" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_FactoryName" v = "Plantation de poiriers" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_FactoryName2" v = "Pear" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_FactoryDescription" v = "Les poires peuvent être produites dans cette plantation." />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_productLine_birne" v = "Plantation de poiriers" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_productLine_birne1" v = "+ engrais" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_productLine_birne2" v = "+ Plant Protection" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input1" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input3" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input4" v = "Palette en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input5" v = "Fertilizer" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Input6" v = "Plant protection" />
+<e k = "FEDmods_Produktionen_FEDmods_Birne_Output1" v = "Pears" />
+
+
+     <e k = "FEDmods_Produktionen_FEDmods_Kirsche_function" v = "L'eau, le compost, les palettes vides et le carton deviennent des cerises. Avec les engrais et les pesticides, la production peut être augmentée" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_FactoryName" v = "Cherry Plantation" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_FactoryName2" v = "Cherry" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_FactoryDescription" v = "Des cerises peuvent être produites dans cette plantation." />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_productLine_kirsche" v = "Plantation de cerisiers" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_productLine_kirsche1" v = "+ engrais" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_productLine_kirsche2" v = "+ Protection des végétaux" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input1" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input3" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input4" v = "Palette en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input5" v = "Fertilizer" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Input6" v = "Protection des végétaux" />
+<e k = "FEDmods_Produktionen_FEDmods_Kirsche_Output1" v = "Cerises" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_function" v = "Les prunes sont fabriquées à partir d'eau, de compost, de palettes vides et de carton. La production peut être augmentée avec des engrais et des produits phytosanitaires" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_FactoryName" v = "Plantation de pruniers" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_FactoryName2" v = "Plum" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_FactoryDescription" v = "Les prunes peuvent être produites dans cette plantation." />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_productLine_pflaume" v = "Plantation de pruniers" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_productLine_pflaume1" v = "+ engrais" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_productLine_pflaume2" v = "+ Protection des plantes" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input1" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input3" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input4" v = "Palette en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input5" v = "Fertilizer" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Input6" v = "Protection des végétaux" />
+<e k = "FEDmods_Produktionen_FEDmods_Pflaume_Output1" v = "Prunes" />
+
+
+
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_function" v = "Le fromage et le fromage à la crème sont produits à partir de lait, de palettes vides et de cartons." />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_FactoryName" v = "Kaeserei" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_FactoryName2" v = "Kaeserei" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_FactoryDescription" v = "Le fromage et le fromage à la crème sont produits à partir de lait, de palettes vides et de cartons." />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_productLine_Kaese" v = "Production de fromage" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_productLine_frischkaese" v = "Production de fromage frais" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_Input1" v = "Milk" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_Input2" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_Input3" v = "Karton" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_Output1" v = "Kaese" />
+<e k = "FEDmods_Produktionen_FEDmods_Kaeserei_Output2" v = "Frischkaese" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_function" v = "Le sucre et le compost sont produits à partir de la betterave à sucre ou de la canne à sucre." />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_FactoryName" v = "Zuckerfabrik" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_FactoryName2" v = "Zucker" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_FactoryDescription" v = "Le sucre peut être produit dans cette usine." />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_productLine_zucker" v = "Production de sucre" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Input1" v = "Betterave à sucre / Canne à sucre" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Input2" v = "Eau" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Input3" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Output1" v = "Sugar" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Output2" v = "Kompost" />
+<e k = "FEDmods_Produktionen_FEDmods_Zucker_Output3" v = "Rübenschnitzel" />
+
+                <e k = "FEDmods_Produktionen_FEDmods_Schlachter_function" v = "Le bœuf devient viande, saucisse et cuir et le porc devient viande, saucisse et sous-produits, le poulet devient poulet et saucisse, le mouton devient agneau et saucisse" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_FactoryName" v = "Schlachter" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_FactoryName2" v = "Schlachter" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_FactoryDescription" v = "Le bœuf devient viande, saucisse et cuir et le porc devient viande, saucisse et sous-produits, le poulet devient poulet et saucisse, le mouton devient agneau et saucisse" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_productLine_Rind" v = "Schlachter Rind" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_productLine_Schwein" v = "Schlachter Schwein" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_productLine_Huhn" v = "Schlachter Chicken" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_productLine_Lamm" v = "Schlachter Lamm" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input1" v = "Rinder" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input2" v = "pigs" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input3" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input4" v = "Palettes en carton" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input5" v = "Chicken" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Input6" v = "Schaf" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output1" v = "Boeuf" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output2" v = "Wurst" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output3" v = "Cuir" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output4" v = "Sous-produits de porc" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output5" v = "Porc" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output6" v = "Viande de poulet" />
+<e k = "FEDmods_Produktionen_FEDmods_Schlachter_Output7" v = "Lammfleisch" />
+
+
+
+   <e k = "FEDmods_Produktionen_FEDmods_Holzstamm_function" v = "Les palettes à grumes sont produites à partir de palettes diesel et vides." />
+    <e k = "FEDmods_Produktionen_FEDmods_Holzstamm_productLine_Holzstamm" v = "Holzstamm" />
+    <e k = "FEDmods_Produktionen_FEDmods_Holzstamm_FactoryName" v = "Holzstamm" />
+<e k = "FEDmods_Produktionen_FEDmods_Holzstamm_FactoryDescription" v = "Les palettes à bûches sont produites à partir de palettes diesel et vides." />
+    <e k = "FEDmods_Produktionen_FEDmods_Holzstamm_Input1" v = "Diesel" />
+<e k = "FEDmods_Produktionen_FEDmods_Holzstamm_Input2" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Holzstamm_Output1" v = "Holzstamm" />
+
+
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_function" v = "Avec du diesel et une palette vide, il y a des poissons, des crabes et des homards" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Scholle" v = "Normal fisherman" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Speed" v = "Plus de vitesse" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Speed2" v = "Vollspeed Fischer" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Heringe" v = "Herring" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Krabben" v = "Krabben" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_productLine_Hummer" v = "Hummer" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_FactoryName" v = "Fischer" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_FactoryDescription" v = "Avec du diesel et une palette vide, il y a des poissons, des crabes et des homards" />
+    <e k = "FEDmods_Produktionen_FEDmods_Fischer_Input1" v = "Diesel" />
+<e k = "FEDmods_Produktionen_FEDmods_Fischer_Input2" v = "Palettes vides" />
+<e k = "FEDmods_Produktionen_FEDmods_Wartung" v = "Condition / Maintenance" />
+<e k = "FEDmods_Produktionen_FEDmods_Fischer_Output1" v = "Scholle" />
+<e k = "FEDmods_Produktionen_FEDmods_Fischer_Output2" v = "Herring" />
+<e k = "FEDmods_Produktionen_FEDmods_Fischer_Output3" v = "Krabben" />
+<e k = "FEDmods_Produktionen_FEDmods_Fischer_Output4" v = "Hummer" />
+
+
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_function" v = "Les produits laitiers sont fabriqués à partir de lait, de palettes vides, de palettes en papier et en carton." />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_FactoryName" v = "Dairy" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_FactoryName2" v = "Dairy" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_FactoryDescription" v = "Les produits laitiers sont fabriqués à partir de lait, de palettes vides, de palettes en papier et en carton." />
+
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_productLine_Vollmilch" v = "Production de lait entier" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_productLine_Butter" v = "Production de beurre" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_productLine_Sahne" v = "Production de crème" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_productLine_Joghurt" v = "Production de yaourt" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_productLine_Quark" v = "Quark production" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Input1" v = "Milk" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Input2" v = "Palette vide" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Input3" v = "Karton" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Input4" v = "Paper" />
+
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Output1" v = "Lait entier" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Output2" v = "Butter" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Output3" v = "Cream" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Output4" v = "Yaourt" />
+<e k = "FEDmods_Produktionen_FEDmods_Molkerei_Output5" v = "Quark" />
+
+     <e k = "FEDmods_Produktionen_FEDmods_Oelmuehle_function" v = "Les huiles de cuisson sont fabriquées à partir de colza, de tournesol ou de soja avec des palettes vides, des palettes en papier et en carton." />
+<e k = "FEDmods_Produktionen_FEDmods_Oelmuehle_FactoryName" v = "Oelmuehle" />
+<e k = "FEDmods_Produktionen_FEDmods_Oelmuehle_FactoryName2" v = "Oelmuehle" />
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_FactoryDescription" v="Aus Raps, Sonnenblumen oder Sojabohnen mit Leerpalette, Papier und Kartonpalette werden Speiseöle hergestellt."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_productLine_Rapsoel" v="Rapsöl Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_productLine_Sonnenblumenoel" v="Sonnenblumenöl Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_productLine_Sojaoel" v="Sojaöl Herstellung"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input1" v="Raps"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input2" v="Sonneblumen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input3" v="Sojabohnen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input4" v="Leerpalette"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input5" v="Kartonpalette"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Input6" v="Papierpalette"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Output1" v="Rapsöl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Output2" v="Sonnenblumenöl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Output3" v="Sojaöl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Oelmuehle_Output4" v="Kompost"/>
+
+
+ 		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_function" v="Mit Geld können hier MatchMap_Punkte Paletten gekauft werden. Jedes Team braucht einen."/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_FactoryName" v="MatchMap_Punkte"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_FactoryName2" v="MatchMap_Punkte"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_FactoryDescription" v="Mit Geld können hier MatchMap_Punkte Paletten gekauft werden. Jedes Team braucht einen."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Punkte_Nord" v="Punkte Team Sylt"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Punkte_Ost" v="Punkte Team Föhr"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Punkte_West" v="Punkte Team Amrum"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Punkte_Sued" v="Punkte Team Helgoland"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Input1" v="Geld"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Input2" v="Geld"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Output1" v="Punkte Nord"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Output2" v="Punkte Ost"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Output3" v="Punkte West"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Punkte_Output4" v="Punkte Sued"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_function" v="Zielbereich für die Match Map Punkte Paletten"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_FactoryName" v="MatchMap Zielbereich"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_FactoryName2" v="MatchMap Zielbereich"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_FactoryDescription" v="Zielbereich für die Match Map Punkte Paletten"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Ziel_Nord" v="Punkte Team Sylt"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Ziel_Ost" v="Punkte Team Föhr"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Ziel_West" v="Punkte Team Amrum"/>
+		<e k="FEDmods_Produktionen_FEDmods_productLine_MatchMap_Ziel_Sued" v="Punkte Team Helgoland"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Input1" v="Punkte Palette"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Input2" v="Punkte Palette"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Input3" v="Punkte Palette"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Input4" v="Punkte Palette"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Output1" v="Zielbereich Nord"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Output2" v="Zielbereich Ost"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Output3" v="Zielbereich West"/>
+		<e k="FEDmods_Produktionen_FEDmods_MatchMap_Ziel_Output4" v="Zielbereich Sued"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_function" v="Aus Saatgut, Wasser, Erde, Leerpalette und Karton werden Tomaten. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_FactoryName" v="Tomatengewächshaus"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_FactoryName2" v="Tomate"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_FactoryDescription" v="Aus Wasser, Erde, Leerpalette und Karton werden Tomaten. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_productLine_tomate" v="Tomaten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_productLine_tomate1" v="+ Mist"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_productLine_tomate2" v="+ Pflanzenschutz"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_Input1" v="Saatgut"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_Input2" v="Erde"/>
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_Input3" v="Eau"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_Input6" v="Mist"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Tomate_Output1" v="Tomate"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Salat_function" v="Aus Saatgut, Wasser, Erde, Leerpalette und Karton wird Salat. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Salat_FactoryName" v="Salatgewächshaus"/>
+		<e k="FEDmods_Produktionen_FEDmods_Salat_FactoryName2" v="Salat"/>
+		<e k="FEDmods_Produktionen_FEDmods_Salat_FactoryDescription" v="Aus Wasser, Erde, Leerpalette und Karton wird Salat. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Salat_productLine_salat" v="Salat"/>
+		<e k="FEDmods_Produktionen_FEDmods_Salat_Output1" v="Salat"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_function" v="Aus Saatgut, Wasser, Erde, Leerpalette und Karton wird Blumenkohl. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_FactoryName" v="Blumenkohlgewächshaus"/>
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_FactoryName2" v="Blumenkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_FactoryDescription" v="Aus Wasser, Erde, Leerpalette und Karton wird Blumenkohl. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_productLine_blumenkohl" v="Blumenkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Blumenkohl_Output1" v="Blumenkohl"/>
+
+                <e k="FEDmods_Produktionen_FEDmods_Rotkohl_function" v="Aus Saatgut, Wasser, Erde, Leerpalette und Karton wird Rotkohl. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Rotkohl_FactoryName" v="Rotkohlgewächshaus"/>
+		<e k="FEDmods_Produktionen_FEDmods_Rotkohl_FactoryName2" v="Rotkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Rotkohl_FactoryDescription" v="Aus Wasser, Erde, Leerpalette und Karton wird Rotkohl. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Rotkohl_productLine_rotkohl" v="Rotkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Rotkohl_Output1" v="Rotkohl"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_function" v="Aus diversen Rohstoffen wird Brot, Brötchen, Backwaren und Kuchen hergestellt. Hefe und Backpulver muss beim Supermarkt gekauft werden."/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_FactoryName" v="Bäckerei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_FactoryName2" v="Bäckerei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_FactoryDescription" v="Aus diversen Rohstoffen wird Brot, Brötchen, Backwaren und Kuchen hergestellt. Hefe und Backpulver muss beim Supermarkt gekauft werden."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_productLine_Brot" v="Brot Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_productLine_Broetchen" v="Broetchen Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_productLine_Backwaren" v="Backwaren Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_productLine_Kuchen" v="Kuchen Herstellung"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input1" v="Mehl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input2" v="Eau"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input3" v="Hefe"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input4" v="Leerpalette"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input5" v="Mohn"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input6" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input7" v="Zucker"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input8" v="Eier"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input9" v="Butter"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input10" v="Vollmilch"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input11" v="Joghurt"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input12" v="Backpulver"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input13" v="Sahne"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Input14" v="Obst"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Output1" v="Brot"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Output2" v="Brötchen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Output3" v="Backwaren"/>
+		<e k="FEDmods_Produktionen_FEDmods_Baeckerei_Output4" v="Kuchen"/>
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Mosterei_function" v="In der Mosterei wird Apfelsaft, Birnensaft, Kirschsaft, Pflaumensaft, Tomatensaft und Karottensaft hergestellt."/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_FactoryName" v="Mosterei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_FactoryName2" v="Mosterei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_FactoryDescription" v="In der Mosterei wird Apfelsaft, Birnensaft, Kirschsaft, Birnensaft, Tomatensaft und Karottensaft hergestellt."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Apfelsaft" v="Apfelsaft Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Birnensaft" v="Birnensaft Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Kirschsaft" v="Kirschsaft Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Pflaumensaft" v="Pflaumensaft Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Tomatensaft" v="Tomatensaft Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_productLine_Karottensaft" v="Karottensaft Herstellung"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input1" v="Apfel"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input2" v="Birnen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input3" v="Kirschen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input4" v="Pflaumen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input5" v="Tomaten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input6" v="Karotten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input7" v="Eau"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input8" v="Zucker"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input9" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Input10" v="Papierpaletten"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output1" v="Apfelsaft"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output2" v="Birnensaft"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output3" v="Kirschsaft"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output4" v="Pflaumensaft"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output5" v="Tomatensaft"/>
+		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output6" v="Karottensaft"/>
+     		<e k="FEDmods_Produktionen_FEDmods_Mosterei_Output7" v="Schweinefutter"/>
+
+
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_function" v="Aus Bretterpaletten werden Leerpaletten hergestellt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_productLine_Palettenwerk" v="Stufe 1 Palettenherstellung"/>  
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_productLine_Palettenwerk2" v="Stufe 2 Palettenherstellung"/>      
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_FactoryName" v="Palettenwerk"/>
+      <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_FactoryDescription" v="Aus Bretterpaletten werden Leerpaletten hergestellt, Wartung muss direkt im Menü vom Palettenwerk eingekauft werden. Stufe 2 verdoppelt die Produktion aber Verschleiß steigt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_Input1" v="Bretterpaletten"/>    
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_Output1" v="Palettes vides"/>
+    <e k="FEDmods_Produktionen_FEDmods_Palettenwerk_Output2" v="Copeaux de bois"/>
+
+                
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_function" v="Im Hofladen kann Obst und Gemüse verkauft werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_FactoryName" v="Hofladen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_FactoryName2" v="Hofladen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_FactoryDescription" v="Im Hofladen kann Obst und Gemüse verkauft werden"/>
+
+
+               <e k="FEDmods_Produktionen_FEDmods_Hofladen_Input1" v="Apfel"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input2" v="Birnen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input3" v="Kirschen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input4" v="Pflaumen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input5" v="Tomaten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input6" v="Salat"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input7" v="Blumenkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input8" v="Rotkohl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input9" v="Kürbis"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input10" v="Erdbeeren"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input11" v="Pilze"/>
+		<e k="FEDmods_Produktionen_FEDmods_Hofladen_Input12" v="Eier"/>
+ 
+		 <e k="FEDmods_Produktionen_FEDmods_Hofladen_productLine" v="Hofladen Verkauf"/>  
+
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_function" v="In der Gemüsefabrik können aus Kartoffeln, Zwiebeln und Karotten Gemüsepaletten hergestellt werden und mit Nudeln, Tomate und Hühnerfleisch können Suppen hergestellt werden."/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_FactoryName" v="Gemüsefabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_FactoryName2" v="Gemüsefabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_FactoryDescription" v="In der Gemüsefabrik können aus Kartoffeln, Zwiebeln und Karotten Gemüsepaletten hergestellt werden und mit Nudeln, Tomate und Hühnerfleisch können Suppen hergestellt werden"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Kartoffelsack" v="Kartoffelsack Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Zwiebelsack" v="Zwiebelsack Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Karottensack" v="Karottensack Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Suppe" v="Gemüsesuppen Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Tomatensuppe" v="Tomatensuppe Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_productLine_Huehnersuppe" v="Huehnersuppe Herstellung"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input1" v="Kartoffeln"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input2" v="Zwiebeln"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input3" v="Karotten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input4" v="Tomaten"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input5" v="Nudeln"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input6" v="Hünchenfleisch"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input7" v="Eau"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input8" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input9" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Gem_Fabrik_Input10" v="Papier"/>
+
+                <e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_function" v="In der Nudelfabrik können aus Mehl, Wasser und Eiern Nudeln, Spaghetti und mit zusätzlich Rindfleisch Torteloni hergestellt werden."/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_FactoryName" v="Nudelfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_FactoryName2" v="Nudelfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_FactoryDescription" v="In der Nudelfabrik können aus Mehl, Wasser und Eiern Nudeln, Spaghetti und mit zusätzlich Rindfleisch Torteloni hergestellt werden."/>
+
+                <e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input1" v="Mehl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input2" v="Eier"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input3" v="Eau"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input4" v="Rindfleisch"/>	
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input5" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input6" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_Input7" v="Papier"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_productLine_Nudel" v="Nudel Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_productLine_Spaghetti" v="Spaghetti Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Nudelfabrik_productLine_Tortelloni" v="Tortelloni Herstellung"/>
+
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_function" v="In der Getreidefabrik können Hafer, Mais, Hirse, Sorghum und Soja weiterverarbeitet werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_FactoryName" v="Getreidefabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_FactoryName2" v="Getreidefabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_FactoryDescription" v="In der Gemüsefabrik können aus Kartoffeln, Zwiebeln und Karotten Gemüsepaletten hergestellt werden und mit Nudeln, Tomate und Hühnerfleich können Suppen hergestellt werden"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input1" v="Hafer"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input2" v="Hirse"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input3" v="Mais"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input4" v="Soja"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input5" v="Zucker"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input6" v="Raps oder Sonnenblumenöl"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input7" v="Eau"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input8" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input9" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_Input10" v="Papier"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Haferflocken" v="Haferflocken Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Hafermilch" v="Hafermilch Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Hirsebrei" v="Hirsebrei Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Popcorn" v="Popcorn Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Gemuesemais" v="Gemüsemais Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Sojamilch" v="Sojamilch Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Getreidefabrik_productLine_Sojaschnetzel" v="Sojaschnetzel Herstellung"/>
+
+
+
+
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_function" v="Aus Bretterpaletten und Leerpaletten werden Holzfässer und Bienenstöcke hergestellt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_productLine_1" v="Holzfassherstellung"/>  
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_productLine_2" v="Bienenstockherstellung"/>      
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_FactoryName" v="Tischler"/>
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_FactoryDescription" v="Aus Bretterpaletten und Leerpaletten werden Holzfässer und Bienenstöcke hergestellt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_Input1" v="Bretterpaletten"/>    
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_Input2" v="Palettes vides"/>   
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_Output1" v="Holzfass"/>
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_Output2" v="Bienenstock"/>
+    <e k="FEDmods_Produktionen_FEDmods_Tischler_Output3" v="Copeaux de bois"/>
+
+
+    <e k="FEDmods_Produktionen_FEDmods_Honig_function" v="Mit Hilfe von Bienenstöcken, Leerpaletten und Karton wird Honig hergestellt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Honig_productLine_1" v="Honigherstellung"/>         
+    <e k="FEDmods_Produktionen_FEDmods_Honig_FactoryName" v="Honig"/>
+    <e k="FEDmods_Produktionen_FEDmods_Honig_FactoryDescription" v="Mit Hilfe von Bienenstöcken, Leerpaletten und Karton wird Honig hergestellt"/>
+    <e k="FEDmods_Produktionen_FEDmods_Honig_Input1" v="Bienenstock"/>
+    <e k="FEDmods_Produktionen_FEDmods_Honig_Input2" v="Palettes vides"/>    
+    <e k="FEDmods_Produktionen_FEDmods_Honig_Input3" v="Karton"/>   
+    <e k="FEDmods_Produktionen_FEDmods_Honig_Output1" v="Honig"/>
+   
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Brennerei_function" v="In der Brennerei kann Obstler, Korn, Wodka und Whiskey hergestellt werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_FactoryName" v="Brennerei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_FactoryName2" v="Brennerei"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_FactoryDescription" v="In der Brennerei kann Obstler, Korn, Wodka und Whiskey hergestellt werden"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_productLine_Obstler" v="Obstler Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_productLine_Korn" v="Korn Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_productLine_Whiskey" v="Whiskey Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_productLine_Wodka" v="Wodka Herstellung"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input1" v="Obst"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input2" v="Weizen oder Roggen"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input3" v="Kartoffeln"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input4" v="Mais"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input5" v="Hefe"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input6" v="Eau"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input7" v="Malz"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input8" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input9" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input10" v="Papier"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input11" v="Holzfass"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Input12" v="Honig"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Output1" v="Obstler"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Output2" v="Korn"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Output3" v="Wodka"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Output4" v="Whiskey"/>
+		<e k="FEDmods_Produktionen_FEDmods_Brennerei_Output5" v="Schweinefutter"/>
+
+
+
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_function" v="In der Textilfabrik kann aus Wolle oder Baumwolle Stoff und Strickwolle hergestellt werden."/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_FactoryName" v="Textilfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_FactoryName2" v="Textilfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_FactoryDescription" v="In der Textilfabrik kann aus Wolle oder Baumwolle Stoff und Strickwolle hergestellt werden."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_productLine_Stoff" v="Stoff aus Schafwolle"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_productLine_Strickwolle" v="Strickwolle aus Schafwolle"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_productLine_Stoff1" v="Stoff aus Baumwolle"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_productLine_Strickwolle1" v="Strickwolle aus Baumwolle"/>
+
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input1" v="Wolle"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input2" v="Eau"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input3" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input4" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input5" v="Papier"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Input6" v="Baumwolle"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Output1" v="Stoff"/>
+		<e k="FEDmods_Produktionen_FEDmods_Textilfabrik_Output2" v="Strickwolle"/>
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_function" v="In der Kleidungsfabrik kann aus Stoff. Leder und Strickwolle Arbeitsklamotten und Arbeitsschuhe hergestellt werden."/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_FactoryName" v="Kleidungsfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_FactoryName2" v="Kleidungsfabrik"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_FactoryDescription" v="In der Kleidungsfabrik kann aus Stoff. Leder und Strickwolle Arbeitsklamotten und Arbeitsschuhe hergestellt werden."/>
+
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_productLine_Schuhe" v="Arbeitsschuhe"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_productLine_Klamotten" v="Arbeitsklamotten"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input1" v="Stoff"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input2" v="Strickwolle"/>		
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input3" v="Leder"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input4" v="Palettes vides"/>
+	        <e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input5" v="Karton"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Input6" v="Papier"/>
+
+
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Output1" v="Schuhe"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kleidungsfabrik_Output2" v="Klamotten"/>
+
+
+                <e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_function" v="Mit Saatgut, Stroh, Wasser, Erde, und Leerpalette wird Kürbis wachsen. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_FactoryName" v="Kürbisfeld"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_FactoryName2" v="Kürbisfeld"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_FactoryDescription" v="Mit Saatgut, Stroh, Wasser, Erde, und Leerpalette wird Kürbis wachsen. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_productLine_kuerbis" v="Kürbis"/>
+		<e k="FEDmods_Produktionen_FEDmods_Kuerbisfeld_Output1" v="Kürbis"/>
+
+                 <e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_function" v="Mit Saatgut, Kompost, Stroh, Wasser, Karton und Leerpalette werden Erdbeeren wachsen. Mit Bienen, Mist und Pflanzenschutz kann der Ertrag gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_FactoryName" v="Erdbeerfeld"/>
+		<e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_FactoryName2" v="Erdbeerfeld"/>
+		<e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_FactoryDescription" v="Mit Saatgut, Kompost, Stroh, Wasser, Karton und Leerpalette werden Erdbeeren wachsen. Mit Bienen, Mist und Pflanzenschutz kann der Ertrag gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_productLine_Erdbeer" v="Erdbeere"/>
+		<e k="FEDmods_Produktionen_FEDmods_Erdbeerfeld_Output1" v="Erdbeere"/>
+
+
+
+	        <e k="FEDmods_Produktionen_FEDmods_Pilze_function" v="Aus Saatgut, Wasser, Erde, Leerpalette und Karton werden Pilze. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Pilze_FactoryName" v="Pilzegewächshaus"/>
+		<e k="FEDmods_Produktionen_FEDmods_Pilze_FactoryName2" v="Pilze"/>
+		<e k="FEDmods_Produktionen_FEDmods_Pilze_FactoryDescription" v="Aus Wasser, Erde, Leerpalette und Karton werden Pilze. Mit Mist und Pflanzenschutz kann die Produktion gesteigert werden"/>
+		<e k="FEDmods_Produktionen_FEDmods_Pilze_productLine_pilze" v="Pilze"/>
+		<e k="FEDmods_Produktionen_FEDmods_Pilze_Output1" v="Pilze"/>
+
+
+
+
+                <e k="FEDmods_Produktionen_FEDmods_KetchupMayo_function" v="In der Ketchup und Mayo Fabrik kann aus Tomaten, Zucker, Zwiebeln und Öl Ketchup hersgestellt werden. Für die Mayo Herstellung wird keine Zwiebel aber Ei benötigt"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_FactoryName" v="Ketchup und Mayo"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_FactoryName2" v="Ketchup und Mayo"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_FactoryDescription" v="In der Ketchup und Mayo Fabrik kann aus Tomaten, Zucker, Zwiebeln und Öl Ketchup hersgestellt werden. Für die Mayo Herstellung wird keine Zwiebel aber Ei benötigt"/>
+
+                <e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input1" v="Tomaten"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input2" v="Eier"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input3" v="Zwiebelsack"/>		
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input4" v="Zucker"/>	
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input5" v="Raps o. Sonnenblumenöl"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input6" v="Palettes vides"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_Input7" v="Karton"/>
+
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_productLine_Ketchup" v="Ketchup Herstellung"/>
+		<e k="FEDmods_Produktionen_FEDmods_KetchupMayo_productLine_Mayo" v="Mayo Herstellung"/>
+
+
+
+
+
+    </elements>
+</l10n>
