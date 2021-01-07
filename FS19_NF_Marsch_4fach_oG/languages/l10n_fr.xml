@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <l10n>
     <elements>
-    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_functionckenbau_function" v="construction de pont"/>
-    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_productLine" v="construction de pont"/>
-    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_FactoryName" v="construction de pont"/>
-    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Description" v="construction de pont"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_functionckenbau_function" v="Pont à construire"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_productLine" v="Pont à construire"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_FactoryName" v="Pont à construire"/>
+    <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Description" v="Pont à construire"/>
     <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input1" v="Gravier"/>
     <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input2" v="Sable"/>
     <e k="FS19_NF_Marsch_4fach_oG_Brueckenbau_Input3" v="Eau"/>

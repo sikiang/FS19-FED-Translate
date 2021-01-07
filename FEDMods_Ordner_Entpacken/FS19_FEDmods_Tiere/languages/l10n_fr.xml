@@ -3,11 +3,11 @@
 
     <elements>
 
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_function" v="Poulailler pour la production d'œufs et de poulets"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_function" v="Poulailler pour la production d'œufs et de poules"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn" v="Oeufs"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_productLine_Huhn1" v="Poulet"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_FactoryName" v="Poulailler"/>
-    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Description" v="Poulailler pour la production d'œufs et de poulets"/>
+    <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Description" v="Poulailler pour la production d'œufs et de poules"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input1" v="Poulet"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input2" v="Grain"/>
     <e k="FEDmods_Tiere_FEDmods_Huehnerstall_Input3" v="Palette vide"/>
